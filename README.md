@@ -1,4 +1,4 @@
-# 🚀 SchemaForgeAI
+#  SchemaForgeAI
 
 **An AI-Powered Database Schema Designer & Migration Tool**
 
@@ -6,33 +6,33 @@ SchemaForgeAI is a modern, intelligent database schema design tool that combines
 
 ![SchemaForgeAI Main Interface](appimages/main.png)
 
-## ✨ Features
+##  Features
 
-### 🤖 AI-Powered Schema Generation
+###  AI-Powered Schema Generation
 - Generate complete database schemas from natural language descriptions
 - AI assistant helps refine and optimize your database design
 - Intelligent relationship detection and foreign key mapping
 - Smart field type suggestions and validation
 
-### 🎨 Visual Schema Designer
+###  Visual Schema Designer
 - Drag-and-drop table designer
 - Real-time relationship visualization
 - Interactive diagram workspace with zoom and pan
 - Automatic layout optimization
 
-### 🗄️ Multi-Database Support
+###  Multi-Database Support
 - **PostgreSQL** - Full support with advanced features
 - **MySQL** - Complete compatibility including PlanetScale
 - **SQLite** - Perfect for development and testing
 - **Supabase** - Seamless integration with real-time features
 
-### 🔄 Advanced Migration System
+###  Advanced Migration System
 - Generate migration scripts automatically
 - Preview changes before deployment
 - Rollback capabilities
 - Migration history tracking
 
-### 🔗 Database Connectivity
+###  Database Connectivity
 - Test connections before deployment
 - Support for connection strings and individual parameters
 - SSL/TLS support for secure connections
@@ -40,7 +40,7 @@ SchemaForgeAI is a modern, intelligent database schema design tool that combines
 
 ![Database Connection](appimages/db_connect.png)
 
-### 🧠 AI Integration
+###  AI Integration
 - OpenRouter API support (GPT-4, Claude, Llama, etc.)
 - Local AI model support via LM Studio
 - Context-aware schema suggestions
@@ -48,7 +48,7 @@ SchemaForgeAI is a modern, intelligent database schema design tool that combines
 
 ![AI Assistant](appimages/ai_connect.png)
 
-## 🛠️ Installation
+## 🛠 Installation
 
 ### Prerequisites
 - Node.js 18.0 or higher
@@ -80,7 +80,7 @@ SchemaForgeAI is a modern, intelligent database schema design tool that combines
 4. **Open your browser**
    Navigate to [http://localhost:3000](http://localhost:3000)
 
-## 🔧 Configuration
+##  Configuration
 
 ### Database Setup
 
@@ -121,7 +121,7 @@ To enable AI features, configure one of the following:
 3. Start the local server
 4. Configure the endpoint (usually `http://localhost:1234`)
 
-## 🎯 Usage
+##  Usage
 
 ### Creating Your First Schema
 
@@ -155,7 +155,7 @@ To enable AI features, configure one of the following:
    - Monitor deployment progress
    - Verify successful deployment
 
-## 🏗️ Architecture
+##  Architecture
 
 ### Tech Stack
 - **Frontend:** Next.js 14, React 18, TypeScript
@@ -170,7 +170,7 @@ To enable AI features, configure one of the following:
 - **AIService:** Powers intelligent schema generation
 - **MigrationService:** Manages schema deployments and rollbacks
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome contributions! Here's how to get started:
 
@@ -186,32 +186,17 @@ We welcome contributions! Here's how to get started:
 - Update documentation as needed
 - Ensure accessibility compliance
 
-## 📝 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🔮 Roadmap
-
-### v2.0 (Upcoming)
-- [ ] Real-time collaboration features
-- [ ] Advanced indexing and performance optimization
-- [ ] GraphQL schema generation
-- [ ] Cloud deployment integration
-- [ ] Advanced data visualization
-
-### v2.1 (Future)
-- [ ] Mobile responsive design
-- [ ] Team workspace management
-- [ ] Advanced AI model fine-tuning
-- [ ] Custom plugin system
-
-## 🆘 Support
+##  Support
 
 - **Documentation:** [Wiki](https://github.com/ClaudiuJitea/SchemaForgeAI/wiki)
 - **Issues:** [GitHub Issues](https://github.com/ClaudiuJitea/SchemaForgeAI/issues)
 - **Discussions:** [GitHub Discussions](https://github.com/ClaudiuJitea/SchemaForgeAI/discussions)
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Thanks to the open-source community for the amazing tools and libraries
 - Special thanks to all contributors and beta testers
@@ -219,6 +204,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Made with ❤️ by the SchemaForgeAI Team**
-
-⭐ If you find this project helpful, please give it a star on GitHub!
+ If you find this project helpful, please give it a star on GitHub!
