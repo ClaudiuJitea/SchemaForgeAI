@@ -24,7 +24,6 @@ SchemaForgeAI is a modern, intelligent database schema design tool that combines
 - **PostgreSQL** - Full support with advanced features
 - **MySQL** - Complete compatibility including PlanetScale
 - **SQLite** - Perfect for development and testing
-- **Supabase** - Seamless integration with real-time features
 
 ###  Advanced Migration System
 - Generate migration scripts automatically
