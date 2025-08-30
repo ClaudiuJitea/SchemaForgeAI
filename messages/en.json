@@ -1,0 +1,64 @@
+{
+  "navigation": {
+    "aiBuilder": "AI Builder",
+    "advancedBuilder": "Advanced Builder",
+    "inspector": "Inspector",
+    "diagram": "Diagram",
+    "migrationQueue": "Migration Queue",
+    "collaboration": "Collaboration",
+    "advanced": "Advanced",
+    "supabase": "Supabase"
+  },
+  "aiAssistant": {
+    "title": "AI Assistant",
+    "clearChat": "Clear Chat",
+    "placeholder": "Describe tables to create or changes to make...",
+    "greeting": "Hello! I'm your database assistant. Describe the tables you need, and I'll generate the SQL for you in real-time."
+  },
+  "advancedBuilder": {
+    "title": "Live SQL Builder",
+    "description": "Visually build tables and see them in the diagram.",
+    "tableConfiguration": "Table Configuration",
+    "tableName": "Table Name",
+    "tableNamePlaceholder": "e.g., users, products, orders",
+    "fields": "Fields",
+    "addField": "Add Field",
+    "noFields": "No fields added yet",
+    "noFieldsDescription": "Click \"Add Field\" to start building your table",
+    "fieldName": "Field name",
+    "sqlPreview": "SQL Preview",
+    "visualBuilder": "Visual Builder",
+    "addToSchema": "Add to Diagram",
+    "clear": "Clear",
+    "fieldsConfigured": "fields configured"
+  },
+  "schemaInfo": {
+    "title": "Schema Info",
+    "tables": "Tables",
+    "relationships": "Relationships", 
+    "fields": "Fields"
+  },
+  "statusBar": {
+    "userPrompt": "User Prompt",
+    "aiReasoning": "AI Reasoning",
+    "sqlGeneration": "SQL Generation",
+    "schemaParsing": "Schema Parsing",
+    "diagramUpdate": "Diagram Update",
+    "localStorage": "Local Storage",
+    "currentOperation": "Current Operation",
+    "live": "Live",
+    "waiting": "Waiting"
+  },
+  "workspace": {
+    "zoomIn": "Zoom In",
+    "zoomOut": "Zoom Out", 
+    "fitToScreen": "Fit to Screen"
+  },
+  "common": {
+    "add": "Add",
+    "edit": "Edit",
+    "delete": "Delete",
+    "save": "Save",
+    "cancel": "Cancel"
+  }
+}

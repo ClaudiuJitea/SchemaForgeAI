@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(C:\\Users\\claud\\Pictures\\Screenshots/**)",
+      "Read(C:\\Users\\claud\\Pictures\\Screenshots/**)",
+      "Read(C:\\Users\\claud\\Pictures\\Screenshots/**)",
+      "Bash(del \"C:\\Users\\claud\\Desktop\\dev\\ai-schema-builder\\src\\components\\modals\\SupabaseOAuthModal.tsx\")"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
