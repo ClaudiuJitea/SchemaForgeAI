@@ -47,7 +47,7 @@ SchemaForgeAI is a modern, intelligent database schema design tool that combines
 
 ![AI Assistant](appimages/ai_connect.png)
 
-## 🛠 Installation
+##  Installation
 
 ### Prerequisites
 - Node.js 18.0 or higher
